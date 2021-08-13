@@ -16,6 +16,7 @@
   <img align="center" alt="luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align = "center" alt="luis-pascal" height= "30" width= "40" src="https://media.discordapp.net/attachments/819171680462700568/875571765089292308/Pascal-Lite-icon.png?width=458&height=458">
   
  </div> 
   
