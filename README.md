@@ -1,9 +1,11 @@
-<br> <h2>👋 Hello word, me chamo Luis Felipe Leite, é um prazer conhecê-los</h2>
-<br> <img align="right"  alt="luis-rimuro" height="200" src="https://media.discordapp.net/attachments/819171680462700568/873604044306931742/rimuro2.gif">
+<br> <h2>👋 ´´Hello word´´, me chamo Luis Felipe Leite, é um prazer conhecê-los</h2>
+Sou um Empreendedor e aspirante a programador, certificado em relaçãos públicas, business Enhub,empreendedorismo inteligente por Guy Kawasaki, entre outros diversos certificados e diplomas que podem ser obtidos no meu curriculo completo.
+ 
+<br> <img align="right"  alt="luis-rimuro" height="200" src="https://tenor.com/view/he-describes-himself-as-an-entrepreneur-which-is-a-fancy-way-of-saying-unemployed-benedict-townsend-youtuber-news-out-of-work-gif-17861586">
 - 👀 Me interesso por Web e Mobile development 
 - 🌱 Estou aprendendo full-stack dev 
-- :space_invader: Atualmente trabalho com front-end dev
-- 📫 Para contato: luisfelipeleite107@gmail.com
+- :space_invader: Atualmente desempregado, totalmente focado no desenvolvimento de um software capaz de mudar para melhor a industria de segurança física no Brasil
+- 📫 Para contato: luisfeliperochaleite107@gmail.com
 
 
 
@@ -13,7 +15,10 @@
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="luis-php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-original.svg">
-  <img align="center" alt="luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="luis-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="luis-delphi" height ="30" width="30" src"![image](https://user-images.githubusercontent.com/88044665/205551855-78b64f51-7518-4af1-8ec4-c3e1f25ffc02.png)
+"
+" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align = "center" alt="luis-pascal" height= "30" width= "40" src="https://media.discordapp.net/attachments/819171680462700568/875571765089292308/Pascal-Lite-icon.png?width=458&height=458">
