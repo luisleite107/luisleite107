@@ -1,7 +1,7 @@
 <br> <h2>👋 ´´Hello word´´, Tranquilo? Sou o Luís Felipe Leite, é muito bom conhece-los</h2>
 Sou um Empreendedor e aspirante a programador, certificado em relaçãos públicas, business Enhub,empreendedorismo inteligente por Guy Kawasaki, entre outros diversos certificados e diplomas que podem ser obtidos no meu curriculo completo.
  
-<br> <img align="right"  alt="luis-rimuro" height="200" src="https://tenor.com/view/he-describes-himself-as-an-entrepreneur-which-is-a-fancy-way-of-saying-unemployed-benedict-townsend-youtuber-news-out-of-work-gif-17861586">
+<br> <img align="right" height="200" src="https://tenor.com/view/he-describes-himself-as-an-entrepreneur-which-is-a-fancy-way-of-saying-unemployed-benedict-townsend-youtuber-news-out-of-work-gif-17861586">
 - 👀 Me interesso por Web, Mobile development, Smart design e marketing 
 - 🌱 Estou aprendendo full-stack dev 
 - :space_invader: Atualmente desempregado, totalmente focado no desenvolvimento de um software capaz de mudar para melhor a industria de segurança física no Brasil
